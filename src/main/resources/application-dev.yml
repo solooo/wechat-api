@@ -1,0 +1,4 @@
+wx:
+  appid: xxxxxx
+  secret: xxxxxxx
+  refreshTokenTime: 7200 # token刷新时间
